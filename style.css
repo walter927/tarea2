@@ -1,0 +1,19 @@
+body{
+	background-color: black;
+	font-family: arial;
+	margin: 20px;
+}
+h1{
+	color:white;
+}
+.card-signin {
+  background-color: #ffff;
+  border: 0;
+  border-radius: 1rem;
+  box-shadow: 0 1rem 1rem 0 rgba(0, 0, 0, 0.75);
+  opacity: .8;
+}
+.image:hover{
+	width: 300px;
+	height: 300px;
+}
