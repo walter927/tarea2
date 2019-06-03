@@ -21,7 +21,7 @@ function obtenerProductos(){
 				"<div class='card-signin mx-auto col-7' align='center'>"+
 					"<image class='image' src='"+user.image+"' width='200px' heigth='200px'>"+
 					"<p><b>Nombre: </b>"+user.name+"</p>"+
-					"<p><b>Precio: </b>"+user.price+"</p>"+
+					"<p><b>Precio: $</b>"+user.price+"</p>"+
 					"<p><b>Descripción: </b>"+user.description+"</p>"+
 				"</div>";
 			}
